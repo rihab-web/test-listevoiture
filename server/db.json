@@ -1,0 +1,22 @@
+{
+
+    "voitures" :[
+        {
+            "id":1, "title":"voiture1","marque":"A"
+        },
+        {
+            "id":2, "title":"voiture1","marque":"A"
+        },
+        {
+            "id":3, "title":"voiture1","marque":"A"
+        },
+        {
+            "id":4, "title":"voiture1","marque":"A"
+        },
+        {
+            "id":5, "title":"voiture1","marque":"A"
+        }
+    ],
+    "commentaires" : []
+}
+    
